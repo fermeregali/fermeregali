@@ -7,8 +7,8 @@
 <div>
   <a href=""https://github.com/fermeregali">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fermeregali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermeregali&layout=compact&langs_count=16&theme=dracula" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=fermeregali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermeregali&layout=compact&langs_count=16&theme=dracula" />
   
 </div>
 
@@ -22,4 +22,4 @@
   <img align="center" alt="Fer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-![Snake animation](https://github.com/fermeregali/fermeregali/blob/output/github-contribution-grid-snake.svg)
+<! –  ![Snake animation](https://github.com/fermeregali/fermeregali/blob/output/github-contribution-grid-snake.svg) ->
