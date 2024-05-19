@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on fullstack | web | mobile
-- 🌱 I’m currently learning react native
 
 
 <div>
