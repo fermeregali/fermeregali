@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fullstack | web | mobile
+- 🔭 I’m currently working on software engineer
 
 
 <div>
